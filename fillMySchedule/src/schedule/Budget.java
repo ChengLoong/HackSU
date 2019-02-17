@@ -25,6 +25,20 @@ public class Budget {
 	}
 	
 	/*********************************
+	 * Method: 		canAfford()
+	 * Returns whether the user can afford to attend an event
+	 *********************************/
+	public Boolean canAfford(double cost) {
+		double remainingAllocation = getRemainingAllocation();
+		if (cost <= remainingAllocation) {
+			return true;
+		}
+		else {
+			return false;
+		}
+	}
+	
+	/*********************************
 	 * Method: getAllocation()
 	 * returns the original amount of the budget
 	 *********************************/

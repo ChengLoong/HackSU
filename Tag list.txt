@@ -1,0 +1,31 @@
+education,food,social,alcohol,dance,music,entertainment,film,travel,museum,computer,
+art,games,fashion,shopping,book,selfie,sport,agriculture,play,spectate,tech,vegan,organic,live,
+family,children,home,realty,sing,asia,culture,western,auction,highclass,university,youth, sale
+, morning, night, day, lgbt,trivia, comedy, show, new, old, local, dating, animals
+
+rock climbing
+escape room
+fishing
+mixers/minglers
+trivia
+antique
+sports games, soccer, baseball, basketball, ultimate frisbee, chess, football, 
+new tech release
+cultural events, german, swiss, korean, japanese
+
+Person1
+Computer class,2019/02/18/9/00/AM,2019/02/18/9/50/AM
+Computer class,2019/02/19/9/00/AM,2019/02/19/9/50/AM
+Computer class,2019/02/20/9/00/AM,2019/02/20/9/50/AM
+Computer class,2019/02/21/9/00/AM,2019/02/21/9/50/AM
+Computer class,2019/02/22/9/00/AM,2019/02/22/9/50/AM
+Math class,2019/02/18/12/00/PM,2019/02/18/1/00/PM
+Math class,2019/02/19/12/00/PM,2019/02/19/1/00/PM
+Math class,2019/02/20/12/00/PM,2019/02/20/1/00/PM
+Math class,2019/02/21/12/00/PM,2019/02/21/1/00/PM
+Math class,2019/02/22/12/00/PM,2019/02/22/1/00/PM
+Physics class,2019/02/18/4/00/PM,2019/02/18/5/PM
+Physics class,2019/02/19/4/00/PM,2019/02/19/5/PM
+Physics class,2019/02/20/4/00/PM,2019/02/20/5/PM
+Physics class,2019/02/21/4/00/PM,2019/02/21/5/PM
+Physics class,2019/02/22/4/00/PM,2019/02/22/5/PM
