@@ -3,7 +3,7 @@ package schedule;
 public class Budget {
 	private double 		allocation;
 	private int 		frequencyCount;
-	private timeUnit 	frequencyUnit;
+	private TimeUnit 	frequencyUnit;
 	private double		remainingAllocation;
 	
 	/*********************************
@@ -18,7 +18,7 @@ public class Budget {
 	 * Constructor: Budget()
 	 * Constructs a Budget object with the parameters provided
 	 *********************************/
-	public Budget(double allocation, int frequencyCount, timeUnit frequencyUnit) {
+	public Budget(double allocation, int frequencyCount, TimeUnit frequencyUnit) {
 		this.allocation 		= allocation;
 		this.frequencyCount 	= frequencyCount;
 		this.frequencyUnit 		= frequencyUnit;
@@ -67,7 +67,7 @@ public class Budget {
 	 * Method: getFrequencyUnit()
 	 * returns the timeunits that the allocation is given
 	 *********************************/
-	public timeUnit getFrequencyUnit() {
+	public TimeUnit getFrequencyUnit() {
 		return frequencyUnit;
 	}
 	
@@ -92,7 +92,7 @@ public class Budget {
 	 * Method: setFrequencyUnit()
 	 * sets the timeunits that the allocation is given
 	 *********************************/
-	public void setFrequencyUnit(timeUnit frequencyUnit) {
+	public void setFrequencyUnit(TimeUnit frequencyUnit) {
 		this.frequencyUnit = frequencyUnit;
 	}
 

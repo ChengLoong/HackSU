@@ -1,5 +1,5 @@
 package schedule;
 
-public enum timeUnit {
+public enum TimeUnit {
 	ONEOFF,DAY,WEEK,MONTH,YEAR
 }

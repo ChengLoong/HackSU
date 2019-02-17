@@ -2,8 +2,8 @@ HackSU afterparty,2019/02/17/7/30/PM,2019/02/17/9/30/PM,20,party alcohol compute
 Local bar happy hour,2019/02/17/8/00/PM,2019/02/17/11/30/PM,30,alcohol social food sale night local
 Gay bar happy hour,2019/02/17/7/30/PM,2019/02/17/11/30/PM,30,alcohol social food sale night lgbt
 Brewery tasting,2019/02/19/4/00/PM,2019/02/19/7/00/PM,30,alcohol food day night
-Wine tasting,2019/02/20/12/00/PM,2019/02/20/3/PM,50,alcohol food day
-Comedy show,2019/02/22/7/00/PM,2019/02/22/9/PM,45,comedy show alcohol food night spectate entertainment local live
+Wine tasting,2019/02/20/12/00/PM,2019/02/20/3/00/PM,50,alcohol food day
+Comedy show,2019/02/22/7/00/PM,2019/02/22/9/00/PM,45,comedy show alcohol food night spectate entertainment local live
 Old movie night,2019/02/23/8/30/PM,2019/02/23/10/30/PM,20,entertainment film family show old night
 Recent movie release,2019/02/18/6/30/PM,2019/02/18/8/30/PM,30,entertainment film family new night youth
 Kpop concert,2019/02/17/7/30/PM,2019/02/17/10/00/PM,200,entertainment show spectate dance music asia culture night music live youth
@@ -18,7 +18,7 @@ farmers market,2019/02/23/11/00/AM,2019/02/23/4/00/PM,30,food vegan organic sale
 Dog walking volunteer,2019/02/22/6/00/AM,2019/02/22/8/00/AM,0,animals morning sport play
 Dog walking volunteer,2019/02/22/11/00/AM,2019/02/22/1/00/PM,0,animals morning sport play
 Art gallery,2019/02/19/12/00/PM,2019/02/19/2/00/PM,30,museum art spectate highclass
-LGBT history exhibit,2019/02/18/12/00/PM,2019/02/2/00/PM,30,museum art education spectate lgbt
+LGBT history exhibit,2019/02/18/12/00/PM,2019/02/18/2/00/PM,30,museum art education spectate lgbt
 Baseball game,2019/02/20/7/30/PM,2019/02/20/11/00/PM,70,sport entertainment spectate social local night
 Esports game,2019/02/21/7/30/PM,2019/02/21/11/00/PM,50,sport entertainment spectate social games computer youth 
 New phone release,2019/02/23/12/00/AM,2019/02/23/1/00/AM,1000,tech shopping selfie youth sale new
