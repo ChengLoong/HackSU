@@ -42,7 +42,7 @@ public class EventDatabase {
 	}
 	
 	public static Time parseTime(String line) {
-		System.out.println(line);
+		//System.out.println(line);
 		String[] timeinfo = line.split("/");
 		//System.out.println(timeinfo[5]);
 		int year 	= Integer.parseInt(timeinfo[0]);

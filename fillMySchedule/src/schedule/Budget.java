@@ -1,5 +1,12 @@
+/**
+ * 
+ */
 package schedule;
 
+/**
+ * @author E
+ *
+ */
 public class Budget {
 	private double 		allocation;
 	private int 		frequencyCount;
@@ -81,7 +88,7 @@ public class Budget {
 	
 	/*********************************
 	 * Method: setFrequencyCount()
-	 * sets the number of timeunits that the allocation is given
+	 * sets the number of TimeUnits that the allocation is given
 	 * E.g. every 2 weeks
 	 *********************************/
 	public void setFrequencyCount(int frequencyCount) {
